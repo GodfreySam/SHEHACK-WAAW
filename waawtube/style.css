@@ -211,7 +211,9 @@ span {
 
 	.guy-show {
 		display: inline;
-		position: ;
+		position: fixed;
+		width: 45%;
+		z-index: 5;
 	}
 }
 

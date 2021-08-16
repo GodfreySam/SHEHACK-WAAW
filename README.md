@@ -4,3 +4,10 @@
 Check it out at: https://godfrey-waawtube.surge.sh/
 
 <img src="https://github.com/GodfreySam/SHEHACK-WAAW/blob/main/waawtube/WAAWTube.gif" width="700">
+
+- Group one collaborative project task
+
+the collaboration branch of the project is at 
+https://github.com/tegajunior/waaw_group1_task1
+
+<img src="https://github.com/GodfreySam/SHEHACK-WAAW/blob/main/Waaw-Group1-project1.gif" width="700">
